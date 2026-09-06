@@ -1,12 +1,20 @@
-# 🔬 Wireshark Network Traffic Analysis Lab
+<p align="center">
+  <img src="screenshots/wireshark-removebg-preview.png" alt="Wireshark Logo" width="220"/>
+</p>
 
-> **Practical network packet capture and protocol analysis in a controlled cybersecurity lab environment.**
+<h1 align="center">🔬 Wireshark Network Traffic Analysis Lab</h1>
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol_Analysis-0078D4?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+<p align="center">
+  <em>Practical network packet capture and protocol analysis in a controlled cybersecurity lab environment.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-Protocol_Analysis-0078D4?style=for-the-badge" alt="TCP/IP"/>
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge" alt="Status"/>
+</p>
 
 ---
 
