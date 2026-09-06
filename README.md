@@ -2,7 +2,7 @@
   <img src="screenshots/wireshark-removebg-preview.png" alt="Wireshark Logo" width="220"/>
 </p>
 
-<h1 align="center">🔬 Wireshark Network Traffic Analysis Lab</h1>
+<h1 align="center"> Wireshark Network Traffic Analysis Lab</h1>
 
 <p align="center">
   <em>Practical network packet capture and protocol analysis in a controlled cybersecurity lab environment.</em>
